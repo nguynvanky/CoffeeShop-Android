@@ -1,5 +1,9 @@
 # Đồ án kết thúc môn Android Java
 
+### Version 1: SQLite
+
+### Version 2: Call API Web PHP
+
 Công nghệ đã sử dụng trong đồ án này: Retrofit, Glide, Gson.
 
 - Retrofit: là một thư viện mã nguồn mở được sử dụng trong lập trình Android để thực hiện các yêu cầu mạng. Retrofit giúp đơn giản hóa việc thực hiện các yêu cầu mạng bằng cách sử dụng các định nghĩa giao diện (interface) trong việc mô tả các yêu cầu mạng và phản hồi từ API. Bằng cách sử dụng các chú thích và quy tắc đặt tên, Retrofit tự động tạo ra mã và xử lý việc kết nối mạng
