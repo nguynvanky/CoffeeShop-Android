@@ -11,3 +11,4 @@ Công nghệ đã sử dụng trong đồ án này: Retrofit, Glide, Gson.
 - Gson: là một thư viện mã nguồn mở được sử dụng trong lập trình Java và Android để chuyển đổi các đối tượng Java thành định dạng JSON và ngược lại. Gson (G stands for "Google") cung cấp các phương thức và công cụ tiện ích để thực hiện việc chuyển đổi dữ liệu giữa đối tượng Java và chuỗi JSON một cách dễ dàng và linh hoạt. nhằm bổ trợ cho Retrofit.
 
 ![alt text](https://github.com/nguynvanky/CoffeeShop-Android/blob/main/img.png)
+[FIGMA UI](https://www.figma.com/file/BzAxxB6KEmcfAQ789zi0Od/Coffee-Delivery-App-Exploration-(Community)?type=design&node-id=1%3A2&mode=design&t=iFxb0hvdudEFe8qu-1)
